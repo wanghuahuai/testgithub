@@ -8,7 +8,7 @@
 #include<stdio.h>
 
 int main(int argc, const char *argv[])
-{
+{       int b;
 	int a;
     return 0;
 }
